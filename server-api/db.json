@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "dffaaf5c-a32c-4268-a5c6-4ada73fe3018",
+      "name": "Nathan Drake",
+      "email": "nathandrake23@gmail.com"
+    },
+    {
+      "id": "34639f82-3d8e-4b14-9cbb-a51a8a7763f6",
+      "name": "Tyler Durden",
+      "email": "tylerdurden55@gmail.com"
+    },
+    {
+      "id": "34f3bd8c-6b3e-461f-9bbb-c3f2032e382d",
+      "name": "Lara Croft",
+      "email": "laracroft1233@gmail.com"
+    }
+  ]
+}
